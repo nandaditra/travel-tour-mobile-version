@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">travelTour</string>
+    <string name="about">About</string>
+    <string name="main_page">Main Page</string>
+    <string name="aboutPage">About Me</string>
+    <string name="back">Back</string>
+    <string name="name">Name:</string>
+    <string name="name_profil">: Nanda Aditya Putra</string>
+    <string name="email">Email</string>
+    <string name="email_data">: nandaditra56@gmail.com</string>
+    <string name="category">category</string>
+    <string name="history">History</string>
+    <string name="price">Price</string>
+    <string name="status">Status</string>
+    <string name="book">Book</string>
+    <string name="share">Share</string>
+</resources>
